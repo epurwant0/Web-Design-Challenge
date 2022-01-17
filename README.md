@@ -1,6 +1,6 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
-Please click here to access the deployed Pages
+Please click [here](https://epurwant0.github.io/Web-Design-Challenge/pages/) to access the deployed Pages
 
 ## Background
 
